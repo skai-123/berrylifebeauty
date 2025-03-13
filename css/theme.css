@@ -1,0 +1,27 @@
+.main_heading {
+    color: #f8a9de;
+}
+p{color: #f8a9de;text-align: left;}
+h1{ 
+    text-align: center; font-size: 50px;
+}
+body{ 
+     margin-left: 20px;
+     margin-right: 20px;
+}
+.navbar ul{ 
+    list-style: none;
+    background-color: #f0b6e1;
+    padding: 15px;
+    margin: 15px;
+    overflow: hidden;
+}
+.navbar a{
+    color:#f734b6; 
+    text-decoration: underline;
+    padding: 16px;
+    font-size: 25px;
+}
+.navbar li{
+float: left;
+}
