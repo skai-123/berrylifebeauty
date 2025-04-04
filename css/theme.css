@@ -1,7 +1,7 @@
 .main_heading {
-    color: #f8a9de;
+    color: #faaadf;
 }
-p{color: #f8a9de;text-align: left;}
+p{color:#f8a9de;text-align: left;}
 h1{ 
     text-align: center; font-size: 50px;
 }
@@ -25,3 +25,4 @@ body{
 .navbar li{
 float: left;
 }
+h2{color:#f8a9de;}
